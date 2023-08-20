@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tamata.bnpl",
+      "sha256_cert_fingerprints": [
+        "D6:44:5F:97:2A:08:3E:AE:D9:95:58:33:F9:D6:5C:42:1B:65:AE:E8:3A:9E:38:57:1E:D8:40:F6:9D:92:0C:19"
+      ]
+    }
+  }
+]
